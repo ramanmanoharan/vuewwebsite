@@ -36,7 +36,7 @@ export default {
   name: 'Home',
   data()
   {
-  return{page:"Redback IT Solutions", news:"Software Services."}
+  return{page:"Ram IT Solutions", news:"Software Services."}
   },
   props: {
     user: String
