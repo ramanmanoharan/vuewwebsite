@@ -32,7 +32,7 @@ export default {
   name: 'Contact',
   data()
   {
-  return{page:"Redback IT Solutions", news:"Contact Us"}
+  return{page:"Ram IT Solutions", news:"Contact Us"}
   },
   props: {
     user: String
