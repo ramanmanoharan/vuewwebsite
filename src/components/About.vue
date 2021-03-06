@@ -25,7 +25,7 @@ export default {
   name: 'About',
   data()
   {
-  return{page:"Redback IT Solutions", news:"About Us"}
+  return{page:"Ram IT Solutions", news:"About Us"}
   },
   props: {
     user: String
