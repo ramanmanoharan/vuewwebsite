@@ -17,7 +17,7 @@ export default {
   name: 'Nopage',
    data()
   {
-  return{page:"Redback IT Solutions", news:"IT Services", missing: "Visited Page Not Found"}
+  return{page:"Ram IT Solutions", news:"IT Services", missing: "Visited Page Not Found"}
   },
   props: {
     user: String
